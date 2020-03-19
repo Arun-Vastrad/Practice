@@ -3,3 +3,5 @@ Hey there
 
 
 git push origin master -------command to upload
+
+got into linux
